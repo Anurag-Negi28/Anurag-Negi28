@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/anurag-negi28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anurag-negi28/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/salvatorevesuvi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/salvatorevesuvi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/Anurag-Negi28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Anurag-Negi28/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/salvatorevesuvi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/salvatorevesuvi1" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Anurag-Negi28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Anurag-Negi28/" height="30" width="40" /></a>
 <a href="https://discord.gg/.anuragnegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".anuragnegi" height="30" width="40" /></a>
 </p>
 
